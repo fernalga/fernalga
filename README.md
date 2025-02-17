@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hello Everyone👋
+Welcome to my profile ❤️
 
+- I'm interested in learning software engineering 🫡
+- I'm currently working on my senior project! 😱 
+- I love programming, philosophy, and painting 👨‍💻📗🎨
+
+> *I think therefore I am* ~ René Descartes
 <!--
 **fernalga/fernalga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
