@@ -2,7 +2,7 @@
 Welcome to my profile ❤️
 
 - I'm interested in learning software engineering 🫡
-- I'm currently working on my senior project! 😱 
+- 1st place award for senior project "Meat Cogito"! 😱 
 - I love programming, philosophy, and painting 👨‍💻📗🎨
 
 > *I think therefore I am* ~ René Descartes
